@@ -5,7 +5,7 @@ date: 2022-08-26 08:11:00-0400
 inline: false
 ---
 
-Here is a list of Youtubers whose videos I really enjoy. Ever since COVID started (or even before that), I spent a good amount of time every day watching Youtube videos. Initially I watched recorded game streaming from Chinese streamers but now I mostly watch traveling/food videos. Probably watching any of them require Chinese proficiency but some might include subtitles that allow auto-translation. 
+Here is a list of Youtubers whose videos I really enjoy. Ever since COVID started (or even before that), I spent a good amount of time watching Youtube videos. Initially I watched recorded game streaming but recently I mostly watch traveling/food videos. Watching any of them probably requires Chinese proficiency but you might be able to enjoy the ones with subtitles that allow auto-translation. 
 
 ***
 
@@ -17,7 +17,7 @@ Here is a list of Youtubers whose videos I really enjoy. Ever since COVID starte
     <li><a href="https://www.youtube.com/user/Shippiddge">Shippiddge</a></li>
 </ul>
 
-This list is subject to change as I am changing (and evolving I hope) and my like/dislike changes. 
+This list is subject to change as I am changing (and evolving) and my like/dislike changes. 
 
 ***
 
