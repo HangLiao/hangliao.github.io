@@ -24,21 +24,25 @@
   contents:
     - title: Algorithms
       items: 
-        - Description 1.
+        - Graph Query Algorithms
         - Random Linear Algebra
-    - title: 
+    - title: Deep Learning
       items:
-        - 
-        - 
+        - Text Summarization
 
-- title: Other Interests
+- title: <u>Hobbies</u>
   type: nested_list
   contents:
-    - title: <u><>
+    - title: Sports
       items: 
-        - Description 1.
-        - Random Linear Algebra
-    - title: 
+        - Skiing
+        - Badminton
+        - Kayaking
+        - Hiking
+    - title: Games
       items:
-        - 
-        - 
+        - Teamfight Tactics, League of Legends
+        - Shattered Pixel Dungeon, etc. (Indie, Roguelike)
+        - Gacha (not anymore)
+    - title: Violin
+
