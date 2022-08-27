@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Past courses I've TAed/graded. 
+description: Past courses that I've TAed/graded. 
 nav: true
 nav_order: 4
 ---
