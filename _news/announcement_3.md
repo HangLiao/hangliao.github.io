@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Youtuber Recommendations
+title: Youtuber recommendations
 date: 2022-11-01 08:11:00-0400
 inline: false
 ---

@@ -20,4 +20,4 @@ social: true  # includes social icons at the bottom of the page
 
 I am a third-year Computer Science Ph.D. student at Dartmouth College, where I am fortunate to be advised by [Deeparnab Chakrabarty](https://www.cs.dartmouth.edu/~deepc/). I am broadly interested in algorithms and deep learning. I am currently working on graph query algorithms. 
 
-Previously I spent five lovely years at Carnegie Mellon University. 
+Previously I spent five years at Carnegie Mellon University. 
