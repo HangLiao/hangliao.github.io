@@ -4,7 +4,7 @@
     - name: Name
       value: Hang Liao 廖航
     - name: Languages
-      value: Chinese, English, (a little) Japanese
+      value: Chinese, English, (a little bit of) Japanese
 
 - title: Education
   type: time_table
@@ -22,11 +22,9 @@
   contents:
     - title: Algorithms
       items: 
+        - Matroid Learning Algorithms
         - Graph Query Algorithms
         - Random Linear Algebra
-    - title: Deep Learning
-      items:
-        - Text Summarization
 
 - title: <u>Hobbies</u>
   type: nested_list
@@ -35,16 +33,14 @@
       items: 
         - Skiing
         - Badminton
-        - Kayaking
         - Hiking
     - title: Games
       items:
-        - Teamfight Tactics (ranked Master in Season 6, top 0.25%), League of Legends (Silver :()
+        - Teamfight Tactics (ranked Master in Season 6, top 0.25%)
         - Shattered Pixel Dungeon, etc. (Indie, Roguelike)
         - Gacha (not anymore)
     - title: Violin
     - title: Watching anime
       items: 
         - Watched over 150 series over 6 years (2013 - 2019)
-        - Went to read light novels or manga if unsatisfied
         - Watched much less these days

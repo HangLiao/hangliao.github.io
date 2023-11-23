@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2022-08-26 07:59:00-0400
-inline: true
+title: One paper accepted by ALT 2023
+date: 2023-02-01 08:11:00-0400
+inline: false
 ---
 
-Finally have a chance to get my webpage online! :sparkles: :smile: Thanks Luyang for recommending this wonderful template! I am still experimenting here. There are plenty of template stuff that I haven't delete for now. I keep them to remind myself how to make changes later. 
+Our <a href="https://hangliao.github.io/assets/pdf/chakrabarty23.pdf">paper</a> "A Query Algorithm for Learning a Spanning Forest in Weighted Undirected Graphs" is accepted by ALT 2023.
