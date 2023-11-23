@@ -19,7 +19,7 @@ This list is subject to change as I am changing (and evolving) and my like/disli
 - <a href="https://www.youtube.com/channel/UCsdLbTwziL6Tg97swkuThSg">20岁了还没去过星巴克</a>
   - 强烈推荐。
   - 小马哥是我见过最尬的人。
-- <a href="https://www.youtube.com/channel/UC5IZoMHDRHV9j7MYMGNO_Ug">品城记</a><
+- <a href="https://www.youtube.com/channel/UC5IZoMHDRHV9j7MYMGNO_Ug">品城记</a>
   - 大秋和嘉升普及了很多广州独有的美食文化。
   - 大排档和饭堂的烟火气也是多年未见。
 - <a href="https://www.youtube.com/c/%E6%9D%A8%E6%97%AD%E6%B8%B8%E8%AE%B0">杨旭游记</a>
